@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("I create newBranch_!");
+
+            Console.WriteLine("I Add commit newBranch_1 1");
         }
     }
 }
