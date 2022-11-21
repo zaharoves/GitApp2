@@ -12,7 +12,17 @@
             Console.WriteLine("I Add commit master 1");
             Console.WriteLine("I Add commit master 2");
 
-            
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+            Console.WriteLine("GLOBAL UPDATE");
+
 
         }
     }
